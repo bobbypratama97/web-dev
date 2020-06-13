@@ -5,8 +5,14 @@ body{
 }
 
 h1{
-  margin-top: 0;
+  margin: 50px auto 0 auto;
   font-family: 'Piedra', cursive;
+  font-size: 90px;
+}
+
+h2{
+  font-family: 'Lato',cursive;
+  font-size: 2.5rem;
 }
 
 .bottom-container{
