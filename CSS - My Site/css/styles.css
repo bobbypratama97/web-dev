@@ -8,15 +8,32 @@ h1{
   margin: 50px auto 0 auto;
   font-family: 'Piedra', cursive;
   font-size: 90px;
+  color: #66BFBF;
 }
 
 h2{
   font-family: 'Lato',cursive;
   font-size: 2.5rem;
+  font-weight: normal;
+  color:#66BFBF;
+}
+
+h3{
+  font-family: 'Lato',cursive;
+  color:#11999E;
+}
+
+a{
+  font-family: 'Lato',cursive;
+  color:#11999E;
 }
 
 .bottom-container{
-
+    background-color: #e3fdfd;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top:0;
+    padding-bottom: 0;
 }
 
 .bottom-cloud{
@@ -25,8 +42,17 @@ h2{
   bottom:300px;
 }
 
-.middle-container{
+.bottom-h2{
+  margin-top:0;
+  margin-bottom: 0;
+}
 
+.footer-copyright{
+  margin-bottom: 0;
+}
+
+.middle-container{
+  margin-bottom:0;
 }
 
 .pro{
