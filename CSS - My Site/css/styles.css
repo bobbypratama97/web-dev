@@ -47,6 +47,17 @@ a{
   margin-bottom: 0;
 }
 
+.code-img{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.design-img{
+  float: right;
+  margin-left:30px;
+  width: 25%;
+}
 .footer-copyright{
   margin-bottom: 0;
 }
@@ -57,6 +68,13 @@ a{
 
 .pro{
   text-decoration: underline;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
 
 .top-container{
