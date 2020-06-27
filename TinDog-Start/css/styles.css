@@ -32,7 +32,7 @@ p{
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 /* Navbar */
@@ -65,11 +65,15 @@ p{
 .title-image{
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
 }
 
 /* middle feature */
 #features{
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
 }
 
 .feature-box{
