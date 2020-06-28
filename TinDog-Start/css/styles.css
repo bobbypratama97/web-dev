@@ -69,6 +69,17 @@ p{
   right: 30%;
 }
 
+@media (max-width:1028px){
+  .title-image{
+    transform: none;
+    position: static;
+  }
+  
+  #title{
+    text-align: center;
+  }
+}
+
 /* middle feature */
 #features{
   padding: 7% 15%;
