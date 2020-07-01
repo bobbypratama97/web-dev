@@ -12,6 +12,17 @@ p{
   color:#8f8f8f;
 }
 
+/* sections */
+
+.colored-section{
+  background-color: #ff4c68;
+  color: #FFF;
+}
+
+.white-section{
+  background-color: white;
+}
+
 /* heading */
 .big-heading{
   font-family: 'Montserrat', sans-serif;
@@ -59,14 +70,9 @@ p{
 }
 
 /* title */
-#title{
-  background-color: #ff4c68;
-  color: #FFF;
-  text-align: left;
-}
-
 #title .container-fluid{
-  padding:3% 15% 7%;
+  padding:3% 15%;
+  text-align: left;
 }
 
 
@@ -92,7 +98,6 @@ p{
 
 /* middle feature */
 #features{
-  background-color: white;
   position: relative;
 }
 
@@ -117,7 +122,6 @@ p{
 
 #testimonials{
   background-color: #ef8172;
-  color: white;
 }
 
 .testimonial-image{
@@ -160,12 +164,6 @@ p{
 
 
 /* cta */
-
-#cta{
-  background-color: #ff4c68;
-  color:white;
-}
-
 
 /* footer: ; */
 
